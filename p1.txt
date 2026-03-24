@@ -1,2 +1,6 @@
 hiiiiiiiiiiiiiiiii
+<<<<<<< HEAD
 helooooooooooooooooo
+=======
+helooooooooooo kiran here
+>>>>>>> kiran
